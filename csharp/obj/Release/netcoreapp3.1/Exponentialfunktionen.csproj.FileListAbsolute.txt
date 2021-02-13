@@ -1,0 +1,13 @@
+C:\Users\thoma\source\repos\Exponentialfunktionen\Exponentialfunktionen\bin\Release\netcoreapp3.1\Exponentialfunktionen.exe
+C:\Users\thoma\source\repos\Exponentialfunktionen\Exponentialfunktionen\bin\Release\netcoreapp3.1\Exponentialfunktionen.deps.json
+C:\Users\thoma\source\repos\Exponentialfunktionen\Exponentialfunktionen\bin\Release\netcoreapp3.1\Exponentialfunktionen.runtimeconfig.json
+C:\Users\thoma\source\repos\Exponentialfunktionen\Exponentialfunktionen\bin\Release\netcoreapp3.1\Exponentialfunktionen.runtimeconfig.dev.json
+C:\Users\thoma\source\repos\Exponentialfunktionen\Exponentialfunktionen\bin\Release\netcoreapp3.1\Exponentialfunktionen.dll
+C:\Users\thoma\source\repos\Exponentialfunktionen\Exponentialfunktionen\bin\Release\netcoreapp3.1\Exponentialfunktionen.pdb
+C:\Users\thoma\source\repos\Exponentialfunktionen\Exponentialfunktionen\obj\Release\netcoreapp3.1\Exponentialfunktionen.csprojAssemblyReference.cache
+C:\Users\thoma\source\repos\Exponentialfunktionen\Exponentialfunktionen\obj\Release\netcoreapp3.1\Exponentialfunktionen.AssemblyInfoInputs.cache
+C:\Users\thoma\source\repos\Exponentialfunktionen\Exponentialfunktionen\obj\Release\netcoreapp3.1\Exponentialfunktionen.AssemblyInfo.cs
+C:\Users\thoma\source\repos\Exponentialfunktionen\Exponentialfunktionen\obj\Release\netcoreapp3.1\Exponentialfunktionen.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\Exponentialfunktionen\Exponentialfunktionen\obj\Release\netcoreapp3.1\Exponentialfunktionen.dll
+C:\Users\thoma\source\repos\Exponentialfunktionen\Exponentialfunktionen\obj\Release\netcoreapp3.1\Exponentialfunktionen.pdb
+C:\Users\thoma\source\repos\Exponentialfunktionen\Exponentialfunktionen\obj\Release\netcoreapp3.1\Exponentialfunktionen.genruntimeconfig.cache

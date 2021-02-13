@@ -1,0 +1,5 @@
+C:\Users\thoma\Documents\GitHub\Exponentialfunktionen-Rechner\Exponentialfunktionen.exe
+C:\Users\thoma\Documents\GitHub\Exponentialfunktionen-Rechner\Exponentialfunktionen.dll
+C:\Users\thoma\Documents\GitHub\Exponentialfunktionen-Rechner\Exponentialfunktionen.deps.json
+C:\Users\thoma\Documents\GitHub\Exponentialfunktionen-Rechner\Exponentialfunktionen.runtimeconfig.json
+C:\Users\thoma\Documents\GitHub\Exponentialfunktionen-Rechner\Exponentialfunktionen.pdb

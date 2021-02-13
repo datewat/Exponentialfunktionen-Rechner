@@ -1,0 +1,5 @@
+C:\Users\thoma\Desktop\coding\programmieren\cs\bin\Exponentialfunktionen.exe
+C:\Users\thoma\Desktop\coding\programmieren\cs\bin\Exponentialfunktionen.dll
+C:\Users\thoma\Desktop\coding\programmieren\cs\bin\Exponentialfunktionen.deps.json
+C:\Users\thoma\Desktop\coding\programmieren\cs\bin\Exponentialfunktionen.runtimeconfig.json
+C:\Users\thoma\Desktop\coding\programmieren\cs\bin\Exponentialfunktionen.pdb
